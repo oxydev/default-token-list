@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-02-01T23:51:36.736Z",
+  "timestamp": "2022-02-02T11:38:34.622Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -4658,10 +4658,34 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
-      "name": "Bling",
-      "address": "0xf02b3e437304892105992512539F769423a515Cb",
-      "symbol": "BLING",
+      "name": "Duneswap Token",
+      "address": "0xaC5487bFE2502eCc06e057912b6F4946471093b9",
+      "symbol": "DUNE",
       "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "PETAL",
+      "address": "0x2736643C7fFFe186984f60a2d34b91b1b7398bF1",
+      "symbol": "PETAL",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "TULIP",
+      "address": "0x9e832CaE5d19e7ff2f0D62881D1E33bb16Ac9bdc",
+      "symbol": "TULIP",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
+      "symbol": "WBTC",
+      "decimals": 8,
       "chainId": 42262,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
@@ -4685,6 +4709,14 @@
       "name": "Wrapped ROSE",
       "address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
       "symbol": "wROSE",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "YUZUToken",
+      "address": "0xf02b3e437304892105992512539F769423a515Cb",
+      "symbol": "YUZU",
       "decimals": 18,
       "chainId": 42262,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"

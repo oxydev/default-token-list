@@ -24,10 +24,42 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   },
   {
-    "name": "Bling",
+    "name": "YUZUToken",
     "address": "0xf02b3e437304892105992512539F769423a515Cb",
-    "symbol": "BLING",
+    "symbol": "YUZU",
     "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "PETAL",
+    "address": "0x2736643C7fFFe186984f60a2d34b91b1b7398bF1",
+    "symbol": "PETAL",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "TULIP",
+    "address": "0x9e832CaE5d19e7ff2f0D62881D1E33bb16Ac9bdc",
+    "symbol": "TULIP",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "Duneswap Token",
+    "address": "0xaC5487bFE2502eCc06e057912b6F4946471093b9",
+    "symbol": "DUNE",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
+    "symbol": "WBTC",
+    "decimals": 8,
     "chainId": 42262,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   }
