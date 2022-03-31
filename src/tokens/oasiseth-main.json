@@ -5,10 +5,10 @@
     "symbol": "wROSE",
     "decimals": 18,
     "chainId": 42262,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/oasis/info/logo.png"
   },
   {
-    "name": "ETH",
+    "name": "Wrapped Ether (Wormhole)",
     "address": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
     "symbol": "wETH",
     "decimals": 18,
@@ -16,21 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   },
   {
-    "name": "USDT",
+    "name": "Tether USD (Wormhole)",
     "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",
     "symbol": "weUSDT",
     "decimals": 6,
     "chainId": 42262,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   },
-  {
-    "name": "YUZUToken",
-    "address": "0xf02b3e437304892105992512539F769423a515Cb",
-    "symbol": "YUZU",
-    "decimals": 18,
-    "chainId": 42262,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-  },
+ 
   {
     "name": "PETAL",
     "address": "0x2736643C7fFFe186984f60a2d34b91b1b7398bF1",
@@ -48,18 +41,103 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   },
   {
-    "name": "Duneswap Token",
-    "address": "0xaC5487bFE2502eCc06e057912b6F4946471093b9",
-    "symbol": "DUNE",
+    "name": "GemKeeper Finance",
+    "address": "0x72Ad551af3c884d02e864B182aD9A34EE414C36C",
+    "symbol": "BLING",
     "decimals": 18,
     "chainId": 42262,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   },
   {
-    "name": "Wrapped BTC",
-    "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
-    "symbol": "WBTC",
-    "decimals": 8,
+    "name": "Multichain - Binance",
+    "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "symbol": "BNB",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "Multichain - Binance-Peg BUSD Token",
+    "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {  "name": "Multichain - DAI",
+    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {  
+    "name": "Multichain - USD Coin",
+    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {  
+    "name": "Multichain - ChainLink Token",
+    "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {  
+    "name": "Oasis Apes Club",
+    "address": "0xf4dEAd672d2E3e16A3dCAeF4C2bA7Cb1b4D304Ff",
+    "symbol": "OAPE",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {  
+    "name": "Wrapped SOL (Wormhole)",
+    "address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
+    "symbol": "SOL",
+    "decimals": 9,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },{  
+    "name": "Wrapped AVAX (Wormhole)",
+    "address": "0x32847e63E99D3a044908763056e25694490082F8",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },{  
+    "name": "LUNA (Wormhole)",
+    "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
+    "symbol": "LUNA",
+    "decimals": 6,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  }
+  ,{  
+    "name": "UST (Wormhole)",
+    "address": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
+    "symbol": "UST",
+    "decimals": 6,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  }
+  ,{  
+    "name": "Fountain Protocol",
+    "address": "0xd1dF9CE4b6159441D18BD6887dbd7320a8D52a05",
+    "symbol": "FTP",
+    "decimals": 18,
+    "chainId": 42262,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  }
+  ,{  
+    "name": "Spice",
+    "address": "0x095c5A33aA796605F5dc8C421975549C1c80b7F0",
+    "symbol": "SPICE",
+    "decimals": 9,
     "chainId": 42262,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   }

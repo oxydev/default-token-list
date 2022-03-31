@@ -17,7 +17,6 @@ const avalanche = require("./tokens/avalanche.json");
 const fuji = require("./tokens/fuji.json");
 const heco = require("./tokens/heco.json");
 const hecoTestnet = require("./tokens/heco-testnet.json");
-const okchaintest = require("./tokens/okchain-test.json");
 const okchain = require("./tokens/okchain.json");
 const oasistest = require("./tokens/oasiseth-test.json");
 const oasismain = require("./tokens/oasiseth-main.json");
@@ -50,12 +49,10 @@ module.exports = function buildList() {
       ...bscTestnet,
       ...moonbase,
       ...okchain,
-      ...okchaintest,
       ...avalanche,
       ...fuji,
       ...heco,
       ...hecoTestnet,
-      ...oasistest,
       ...oasismain,
     ]
       // sort them by symbol for easy readability
