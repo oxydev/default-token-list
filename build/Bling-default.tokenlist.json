@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-03-22T18:59:53.594Z",
+  "timestamp": "2022-04-08T15:21:02.023Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -2542,6 +2542,14 @@
       "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
       "symbol": "LUNA",
       "decimals": 6,
+      "chainId": 42262,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "Mirage",
+      "address": "0xFb83B2c9f65f92937fd8798Acf8A79571b864273",
+      "symbol": "MRG",
+      "decimals": 18,
       "chainId": 42262,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
